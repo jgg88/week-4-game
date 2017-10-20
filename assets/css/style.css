@@ -1,0 +1,87 @@
+.wrapper{
+
+}
+
+header {
+width: 650px;
+height: 65px;
+text-align: center;
+font-family: 'Rum Raisin', sans serif;
+font-size: 70px;
+color: #FFFFFF;
+background-color: #21D8E1;
+padding: 20px;
+position: relative;
+}
+
+.container{
+width: 650px;
+margin: 0 auto;
+}
+
+.instructions{
+	width: 640px;
+	text-align: justify;
+	font-family: 'Orienta', sans-serif;
+	color: #004A58;
+	border: double;
+	border-color: #11D1E5;
+	border-width: 5px;
+	margin-top: 2px;
+	padding: 20px;
+}
+
+.randNum {
+	height: 300px;
+	width: 300px;
+	border-radius: 150px;
+	font-family: 'Rum Raisin', sans-serif;
+	font-size: 75px;
+	text-align: center;
+	line-height: 300px;
+	color: #FFFFFF;
+	background-color: #53DED1;
+	float: left;
+	position: relative;
+	left: 45px;
+	margin: 10px;
+	
+
+}
+
+.points{
+	height: 300px;
+	width: 300px;
+	border-radius: 150px;	
+	font-family: 'Rum Raisin', sans serif;
+	font-size: 75px;
+	text-align: center;
+	line-height: 300px;
+	color: #FFFFFF;
+	background-color: #75F9ED;
+	float: right;
+	position: relative;
+	right: 20px;
+	margin: 10px;
+	
+}
+
+.crystals {
+	clear: both;
+	position: relative;
+	left: 45px;
+
+}
+
+.score {
+	width: 650px;
+	text-align: center;
+	font-family: 'Orienta', sans-serif;
+	font-size: 14px;
+	background-color: #21D8E1;
+	color: #FFFFFF;
+	margin: 10px;
+	padding: 20px;
+	position: relative;
+	left: -10px;
+}
